@@ -1,5 +1,7 @@
 # awesome-ethereum
 Awesome Ethereum & Dapps Resources
+![Alt text](https://raw.githubusercontent.com/btomashvili/awesome-ethereum/master/ethereum-logo.jpg "Awsome Resoruces ")
+
 
 #### About Ethereum
 
