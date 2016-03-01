@@ -40,10 +40,8 @@ Awesome Ethereum & Dapps Resources
 - [The End of Corporations – Decentralized Organization ](http://theshapeofthings.org/2016/01/18/field-interview-wmatan-field-ethereum-devcon-1/)
 - [The War for Technology and the End of Democracy](http://theshapeofthings.org/2016/02/01/war-technology-and-the-end-of-democracy/)
 
-#### APPS
-
+#### DAPPS
 - [State of the Dapps](http://dapps.ethercasts.com/)
-
 - [Etherwall : GUI desktop wallet for Ethereum](https://github.com/almindor/etherwall)  
 - [Solether : Autonomous Electrical Energy Entities - Prototype](https://github.com/makevoid/solether)  
 - [Profeth : A smart contracts ecosystem for a resource-based digital economy](https://github.com/profeth/)  
