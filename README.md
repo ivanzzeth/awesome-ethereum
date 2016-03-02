@@ -95,3 +95,11 @@ Awesome Ethereum & Dapps Resources
 - [Ethos: Ethos, an Ethereum Browser](https://github.com/projectdnet/ethos)
 - [Notareth : Ethereum based notary service](https://github.com/maran/notareth)
 - [Whisper Chat Client Ðapp](https://github.com/ethereum/meteor-dapp-whisper-chat-client)
+
+
+#### Related Resources 
+- [Awesome p2p](https://github.com/kgryte/awesome-peer-to-peer)
+- [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized)
+
+
+
