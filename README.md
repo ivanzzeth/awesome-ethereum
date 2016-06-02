@@ -20,6 +20,7 @@ Awesome Ethereum & Dapps Resources
 - [Meetups](http://www.meetup.com/topics/ethereum/)
 - [IRC, Skype & Gitter channels ](https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-irc-and-gitter)
 - [Ethstats](https://ethstats.net/) 
+- [Ethereum Price](http://ethereumprice.org/)
 
 
 #### Videos
