@@ -1,6 +1,6 @@
 # awesome-ethereum
 Awesome Ethereum & Dapps Resources
-![Awesome Ethereum](https://dl.dropboxusercontent.com/content_link/r4QdVY3kl7LvzHMYz35954WDrvYje1Q9J8gNmX2AnNytR6goygmAnTzEJOx3846J/file "Awesome Ethereum")
+![Awesome Ethereum](https://www.dropbox.com/s/3wybtpks1cx94k4/ethereum.jpg?raw=1 "Awesome Ethereum")
 
 
 #### About Ethereum
