@@ -26,6 +26,7 @@ Awesome Ethereum & Dapps Resources
 #### Videos
 
 - [BBC explains Ethereum](https://www.youtube.com/watch?v=0X33lgMbvdI)
+- [Devcon2 2016](https://www.youtube.com/playlist?list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
 - [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
 - [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)  
 
