@@ -45,6 +45,7 @@ Awesome Ethereum & Dapps Resources
 - [The War for Technology and the End of Democracy](http://theshapeofthings.org/2016/02/01/war-technology-and-the-end-of-democracy/)
 
 #### DAPPS
+- [Dapp Insight](https://dappinsight.com/)
 - [State of the Dapps](http://dapps.ethercasts.com/)
 - [ZeroNet Decentralized websites using Bitcoin crypto and the BitTorrent network](https://github.com/HelloZeroNet/ZeroNet)
 - [WeiFund : A decentralized, open-source, crowdfunding platform built on Ethereum.](https://github.com/weifund)
