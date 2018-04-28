@@ -35,7 +35,8 @@ Awesome Ethereum & Dapps Resources
 - [Using the Wallet part 2: build a Democratic Autonomous Organisation](https://blog.ethereum.org/2015/12/04/ethereum-in-practice-part-2-how-to-build-a-better-democracy-in-under-a-100-lines-of-code/)
 - [Using the Wallet part 3: build your own transparent Central Bank](https://blog.ethereum.org/2015/12/07/ethereum-in-practice-part-3-how-to-build-your-own-transparent-bank-on-the-blockchain/)
 - [Build apps using Meteor and the ethereum tools](https://github.com/ethereum/wiki/wiki/Dapp-using-Meteor)
-- [Learn Solidity, the main language for smart contracts](https://solidity.readthedocs.org/en/latest/) 
+- [Learn Solidity, the main language for smart contracts](https://solidity.readthedocs.org/en/latest/)
+- [Programming Community Curated Resources for learning Solidity](https://hackr.io/tutorials/learn-solidity)
 
 #### Blogs & Article threads
 - [Rise of the World Computer](http://www.svds.com/ethereum-the-rise-of-the-world-computer/#.Vs3MJboMMl0.facebook)
