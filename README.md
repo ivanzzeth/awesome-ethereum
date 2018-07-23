@@ -20,8 +20,12 @@ Awesome Ethereum & Dapps Resources
 - [Meetups](http://www.meetup.com/topics/ethereum/)
 - [IRC, Skype & Gitter channels ](https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-irc-and-gitter)
 - [Ethstats](https://ethstats.net/) 
-- [Ethereum Price](http://ethereumprice.org/)
 
+#### Market Information
+
+- [Ethereum on Blockmodo](https://blockmodo.com/quotes/ETH)
+- [Ethereum on CoinMarketCap](https://coinmarketcap.com/currencies/ethereum/)
+- [Ethereum Market Registry File](https://github.com/Blockmodo/coin_registry/blob/master/coins/ETH.registry.json)
 
 #### Videos
 
