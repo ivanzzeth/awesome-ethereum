@@ -34,6 +34,16 @@ Awesome Ethereum & Dapps Resources
 - [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
 - [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)  
 
+#### Tools
+- [Etherscan: Blockchain Explorer](https://etherscan.io)
+- [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
+- [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
+
+#### Developer Tools
+- [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
+- [Meteor-dapp-cosmo: Meteor dapp for building and vetting solidity contracts](https://github.com/SilentCicero/meteor-dapp-cosmo)
+- [Browser-Solidity : Browser based solidity contract compiler](https://github.com/chriseth/browser-solidity)
+
 #### Where do I start?
 - [Download the wallet and build your own cryptocurrency](https://blog.ethereum.org/2015/12/03/how-to-build-your-own-cryptocurrency/)
 - [Using the Wallet part 2: build a Democratic Autonomous Organisation](https://blog.ethereum.org/2015/12/04/ethereum-in-practice-part-2-how-to-build-a-better-democracy-in-under-a-100-lines-of-code/)
@@ -59,7 +69,6 @@ Awesome Ethereum & Dapps Resources
 - [Etherwall : GUI desktop wallet for Ethereum](https://github.com/almindor/etherwall)  
 - [Embark : Framework for Ethereum DApps](https://github.com/iurimatias/embark-framework)
 - [Truffle : A development framework for Ethereum](https://github.com/ConsenSys/truffle)
-- [Meteor-dapp-cosmo: Meteor dapp for building and vetting solidity contracts](https://github.com/SilentCicero/meteor-dapp-cosmo)
 - [Solether : Autonomous Electrical Energy Entities - Prototype](https://github.com/makevoid/solether)  
 - [Profeth : A smart contracts ecosystem for a resource-based digital economy](https://github.com/profeth/)  
 - [LETH : first hybrid mobile app to manage an Ethereum wallet](https://github.com/inzhoop-co/LETH)  
@@ -84,7 +93,6 @@ Awesome Ethereum & Dapps Resources
 - [EtherID : Ethereum ID Registar](https://github.com/lexansoft/EtherID.org)
 - [SafeMarket : P2P Marketplace](https://www.reddit.com/r/safemarket)
 - [JobMarket : Decentralized job market](https://github.com/ultra-koder/JobMarket)
-- [Browser-Solidity : Browser based solidity contract compiler](https://github.com/chriseth/browser-solidity)
 - [Taxeme : A component of the Resilience taxation system](https://github.com/resilience-me/Taxeme)
 - [Spore : Simple package manager for dApp development ](https://github.com/mhhf/spore)
 - [Spore : Simple package manager for dApp development ](https://github.com/mhhf/spore)
