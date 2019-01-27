@@ -122,11 +122,14 @@ Awesome Ethereum & Dapps Resources
 - [Whisper Chat Client Ðapp](https://github.com/ethereum/meteor-dapp-whisper-chat-client)
 - [Thousand Ether Homepage](https://thousandetherhomepage.com)
 - [Angular Decentralized Application with Embark](https://github.com/enten/embark-angular)
+- [Settle : Decentralized Finance Operating System](http://settle.finance)
+- [Dapped : Dapps & Games Due Diligence & Reviews](http://dapped.io)
 
 
 #### Related Resources
 - [Awesome p2p](https://github.com/kgryte/awesome-peer-to-peer)
 - [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized)
+- [ConcourseQ : Open Community Sourced Blockchain & ICO Due Diligence Platform](https://concourseq.io/)
 
 
 
