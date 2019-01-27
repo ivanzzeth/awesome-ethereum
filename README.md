@@ -23,12 +23,31 @@ Awesome Ethereum & Dapps Resources
 - [Ethereum Price](http://ethereumprice.org/)
 
 
+
+#### Market Information
+
+- [Ethereum on Blockmodo](https://blockmodo.com/quotes/ETH)
+- [Ethereum on CoinMarketCap](https://coinmarketcap.com/currencies/ethereum/)
+- [Ethereum Market Registry File](https://github.com/Blockmodo/coin_registry/blob/master/coins/ETH.registry.json)
+
 #### Videos
 
 - [BBC explains Ethereum](https://www.youtube.com/watch?v=0X33lgMbvdI)
 - [Devcon2 2016](https://www.youtube.com/playlist?list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
 - [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
 - [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
+
+
+#### Tools
+- [Etherscan: Blockchain Explorer](https://etherscan.io)
+- [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
+- [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
+
+#### Developer Tools
+- [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
+- [Meteor-dapp-cosmo: Meteor dapp for building and vetting solidity contracts](https://github.com/SilentCicero/meteor-dapp-cosmo)
+- [Browser-Solidity : Browser based solidity contract compiler](https://github.com/chriseth/browser-solidity)
+
 
 #### Where do I start?
 - [Download the wallet and build your own cryptocurrency](https://blog.ethereum.org/2015/12/03/how-to-build-your-own-cryptocurrency/)
@@ -83,7 +102,6 @@ Awesome Ethereum & Dapps Resources
 - [EtherID : Ethereum ID Registar](https://github.com/lexansoft/EtherID.org)
 - [SafeMarket : P2P Marketplace](https://www.reddit.com/r/safemarket)
 - [JobMarket : Decentralized job market](https://github.com/ultra-koder/JobMarket)
-- [Browser-Solidity : Browser based solidity contract compiler](https://github.com/chriseth/browser-solidity)
 - [Taxeme : A component of the Resilience taxation system](https://github.com/resilience-me/Taxeme)
 - [Spore : Simple package manager for dApp development ](https://github.com/mhhf/spore)
 - [Spore : Simple package manager for dApp development ](https://github.com/mhhf/spore)
@@ -103,6 +121,7 @@ Awesome Ethereum & Dapps Resources
 - [Notareth : Ethereum based notary service](https://github.com/maran/notareth)
 - [Whisper Chat Client Ðapp](https://github.com/ethereum/meteor-dapp-whisper-chat-client)
 - [Thousand Ether Homepage](https://thousandetherhomepage.com)
+- [Angular Decentralized Application with Embark](https://github.com/enten/embark-angular)
 
 
 #### Related Resources
