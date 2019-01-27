@@ -63,6 +63,7 @@ Awesome Ethereum & Dapps Resources
 - [SkyNet is the future](http://theshapeofthings.org/2016/01/18/skynetisthefuture/)
 - [The End of Corporations – Decentralized Organization ](http://theshapeofthings.org/2016/01/18/field-interview-wmatan-field-ethereum-devcon-1/)
 - [The War for Technology and the End of Democracy](http://theshapeofthings.org/2016/02/01/war-technology-and-the-end-of-democracy/)
+- [Solidity Idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies)
 
 #### Books
 - [Ethereum Development with Go](https://goethereumbook.org/)
