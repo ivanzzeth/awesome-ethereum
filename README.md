@@ -56,6 +56,7 @@ Awesome Ethereum & Dapps Resources
 - [Build apps using Meteor and the ethereum tools](https://github.com/ethereum/wiki/wiki/Dapp-using-Meteor)
 - [Learn Solidity, the main language for smart contracts](https://solidity.readthedocs.org/en/latest/)
 - [Programming Community Curated Resources for learning Solidity](https://hackr.io/tutorials/learn-solidity)
+- [Syllabus Ethereum](https://novicedock.com/learn/cryptocurrency/ethereum)
 
 #### Blogs & Article threads
 - [Rise of the World Computer](http://www.svds.com/ethereum-the-rise-of-the-world-computer/#.Vs3MJboMMl0.facebook)
