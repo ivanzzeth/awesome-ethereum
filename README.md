@@ -68,6 +68,7 @@ Awesome Ethereum & Dapps Resources
 
 #### Books
 - [Ethereum Development with Go](https://goethereumbook.org/)
+- [Blockchain in Action](https://www.manning.com/books/blockchain-in-action)
 
 #### DAPPS
 - [Dapp Insight](https://dappinsight.com/)
