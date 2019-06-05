@@ -96,6 +96,7 @@ Awesome Ethereum & Dapps Resources
 - [MakerDAO : Stable Cryptocurrency MakerDAO](https://github.com/MakerDAO)
 - [Dapple : Smart contract package manager and build tool](https://github.com/nexusdev/dapple)
 - [Dappsys : Solidity Contract System Framework](https://github.com/nexusdev/dappsys)
+- [Nethereum : Cross-platform Ethereum development framework](https://github.com/Nethereum)
 - [Iudex : smart contract based reputation system](https://github.com/iudex/iudex)
 - [Etherforum : distributed forum built on top of Ethereum](https://github.com/matiasinsaurralde/etherforum)
 - [Decentralized Twitter : Microblogging on the Ethereum blockchain](https://github.com/yep/eth-tweet)
