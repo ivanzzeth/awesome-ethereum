@@ -47,7 +47,8 @@ Awesome Ethereum & Dapps Resources
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
 - [Meteor-dapp-cosmo: Meteor dapp for building and vetting solidity contracts](https://github.com/SilentCicero/meteor-dapp-cosmo)
 - [Browser-Solidity : Browser based solidity contract compiler](https://github.com/chriseth/browser-solidity)
-
+- [One Click Dapp: FOSS tool for creating dapp frontends from an ABI.](https://oneclickdapp.com)
+- [Etherflow: A FOSS tool for Ethereum developers to test their node, and compose & debug RPC calls from the browser.](https://etherflow.quiknode.io/)
 
 #### Where do I start?
 - [Download the wallet and build your own cryptocurrency](https://blog.ethereum.org/2015/12/03/how-to-build-your-own-cryptocurrency/)
@@ -134,6 +135,3 @@ Awesome Ethereum & Dapps Resources
 - [Awesome p2p](https://github.com/kgryte/awesome-peer-to-peer)
 - [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized)
 - [ConcourseQ : Open Community Sourced Blockchain & ICO Due Diligence Platform](https://concourseq.io/)
-
-
-
