@@ -44,6 +44,7 @@ Awesome Ethereum & Dapps Resources
 - [Etherscan: Blockchain Explorer](https://etherscan.io)
 - [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
 - [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
+- [DeBank: Browser Based DeFi Wallet and DeFi analytics](https://debank.com/)
 
 #### Developer Tools
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
