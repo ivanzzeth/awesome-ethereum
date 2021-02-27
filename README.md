@@ -29,6 +29,7 @@ Awesome Ethereum & Dapps Resources
 - [Ethereum on Blockmodo](https://blockmodo.com/quotes/ETH)
 - [Ethereum on CoinMarketCap](https://coinmarketcap.com/currencies/ethereum/)
 - [Ethereum Market Registry File](https://github.com/Blockmodo/coin_registry/blob/master/coins/ETH.registry.json)
+- [Ethereum on Coinsamba](https://coinsamba.com/pt/bestprice/ETH-USD)
 
 #### Videos
 
