@@ -69,6 +69,7 @@ Awesome Ethereum & Dapps Resources
 - [The End of Corporations – Decentralized Organization ](http://theshapeofthings.org/2016/01/18/field-interview-wmatan-field-ethereum-devcon-1/)
 - [The War for Technology and the End of Democracy](http://theshapeofthings.org/2016/02/01/war-technology-and-the-end-of-democracy/)
 - [Solidity Idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies)
+- [Best Practices for Smart Contract Development](https://yos.io/2019/11/10/smart-contract-development-best-practices/)
 
 #### Books
 - [Ethereum Development with Go](https://goethereumbook.org/)
