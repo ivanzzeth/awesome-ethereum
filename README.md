@@ -62,6 +62,7 @@ Awesome Ethereum & Dapps Resources
 - [Learn Solidity, the main language for smart contracts](https://solidity.readthedocs.org/en/latest/)
 - [Programming Community Curated Resources for learning Solidity](https://hackr.io/tutorials/learn-solidity)
 - [Syllabus Ethereum](https://novicedock.com/learn/cryptocurrency/ethereum)
+- [useWeb3 - Learn web3 development](https://www.useweb3.xyz/)
 
 #### Blogs & Article threads
 - [Rise of the World Computer](http://www.svds.com/ethereum-the-rise-of-the-world-computer/#.Vs3MJboMMl0.facebook)
@@ -71,10 +72,15 @@ Awesome Ethereum & Dapps Resources
 - [The War for Technology and the End of Democracy](http://theshapeofthings.org/2016/02/01/war-technology-and-the-end-of-democracy/)
 - [Solidity Idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies)
 - [Best Practices for Smart Contract Development](https://yos.io/2019/11/10/smart-contract-development-best-practices/)
+- [Why decentralization matters](https://cdixon.org/2018/02/18/why-decentralization-matters)
 
 #### Books
 - [Ethereum Development with Go](https://goethereumbook.org/)
 - [Blockchain in Action](https://www.manning.com/books/blockchain-in-action)
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+- [Token Economy: How the Web3 reinvents the Internet](https://github.com/Token-Economy-Book/EnglishOriginal)
+- [How to DeFi](https://landing.coingecko.com/how-to-defi/)
+- [More books](https://www.useweb3.xyz/books)
 
 #### DAPPS
 - [Dapp Insight](https://dappinsight.com/)
