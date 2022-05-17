@@ -12,7 +12,7 @@ Awesome Ethereum & Dapps Resources
 - [Blog](https://blog.ethereum.org/)
 - [Reddit](https://www.reddit.com/r/ethereum/)
 - [Youtube](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ)
-- [Twitter](https://twitter.com/ethereumproject)
+- [Twitter](https://twitter.com/ethereum)
 - [Facebook](https://www.facebook.com/ethereumproject)
 - [Forum](https://forum.ethereum.org/)
 - [Github / Source codes](https://github.com/ethereum)
