@@ -2,7 +2,10 @@
 Awesome Ethereum & Dapps Resources
 ![Awesome Ethereum](https://www.dropbox.com/s/3wybtpks1cx94k4/ethereum.jpg?raw=1 "Awesome Ethereum")
 
-### 💱 ฿ Currency is a social contract
+### To create a better knowledge space we now accept donations of ETH and other cryptocurrencies!  
+
+
+### ฿ Currency is a social contract
 It’s essential to keep in mind that all currency is a social contract. Whether it’s
 gold, silver, or U.S. dollars, we assign value to something and agree to honor
 that belief so we can trade it amongst ourselves. Crypto works the same way.
