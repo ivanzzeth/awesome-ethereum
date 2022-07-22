@@ -2,9 +2,8 @@
 Awesome Ethereum & Dapps Resources
 ![Awesome Ethereum](https://www.dropbox.com/s/3wybtpks1cx94k4/ethereum.jpg?raw=1 "Awesome Ethereum")
 
-### To create a better knowledge space we now accept donations of ETH & other cryptocurrencies!  
-### ENS: beka.eth
-### ETH 0x697b76602EADb510d2BFCDb29db0d2a517F00858 
+### To create a better knowledge space we now accept donations of ETH & other cryptocurrencies!  \ ENS: beka.eth \
+ETH 0x697b76602EADb510d2BFCDb29db0d2a517F00858 
 ### USDT: TTPV8jGDcoQUA2QqyQXfk1aZoGAFLXouPu  (Network TRX - Tron TRC20)
 ### BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f 
 
