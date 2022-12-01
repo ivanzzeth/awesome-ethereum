@@ -50,7 +50,7 @@ decided that it has value.
 - [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
 - [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
 - [Ethereum Online Courses at Classpert](https://classpert.com/ethereum)
-- ["Developing Applications on Ethereum Blockchain" course](https://app.pluralsight.com/library/courses/blockchain-ethereum-developing-applications)
+- ["Developing Applications on Ethereum Blockchain" course](https://www.pluralsight.com/courses/blockchain-ethereum-developing-applications)
 
 
 #### Tools
