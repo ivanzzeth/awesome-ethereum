@@ -68,6 +68,7 @@ decided that it has value.
 - [ZMOK: Publicly accessible Web3 JSON/RPC provider URL's.](https://zmok.io/)
 - [Covalent: A unified API bringing visibility to billions of blockchain data points.](https://zmok.io/)
 - [thirdweb: Build Web3 apps easily, providing developers with easy-to-use tools and open-source SDKs to build, launch, and manage Web3 projects.](https://thirdweb.com/)
+- [Nexth - Next.js + Ethereum Starter kit](https://github.com/wslyvh/nexth)
 
 #### Where do I start?
 - [Download the wallet and build your own cryptocurrency](https://blog.ethereum.org/2015/12/03/how-to-build-your-own-cryptocurrency/)
