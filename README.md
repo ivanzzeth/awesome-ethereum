@@ -1,6 +1,6 @@
 # awesome-ethereum
 Awesome Ethereum & Dapps Resources
-![Awesome Ethereum](https://www.dropbox.com/s/3wybtpks1cx94k4/ethereum.jpg?raw=1 "Awesome Ethereum")
+![Awesome Ethereum](https://drive.google.com/uc?export=download&id=1FtgCvjnQMoSl8LoQEdc3Q-5qGPaNhTJ- "Awesome Ethereum")
 
 ### To create a better knowledge space we now accept donations of ETH & other cryptocurrencies! 
 ENS: beka.eth \
