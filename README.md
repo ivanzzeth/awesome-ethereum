@@ -70,6 +70,9 @@ decided that it has value.
 - [thirdweb: Build Web3 apps easily, providing developers with easy-to-use tools and open-source SDKs to build, launch, and manage Web3 projects.](https://thirdweb.com/)
 - [Nexth - Next.js + Ethereum Starter kit](https://github.com/wslyvh/nexth)
 - [UseSIWE: The easiest way to add Sign-in with Ethereum to your app.](https://github.com/random-bits-studio/use-siwe)
+- [Ethairbaloons](https://github.com/petrosDemetrakopoulos/ethairballoons)
+- [DB3 Network:open-source decentralized firebase firestore alternative.](https://github.com/dbpunk-labs/db3)
+
 
 #### Where do I start?
 - [Download the wallet and build your own cryptocurrency](https://blog.ethereum.org/2015/12/03/how-to-build-your-own-cryptocurrency/)
@@ -80,6 +83,7 @@ decided that it has value.
 - [Programming Community Curated Resources for learning Solidity](https://hackr.io/tutorials/learn-solidity)
 - [Syllabus Ethereum](https://novicedock.com/learn/cryptocurrency/ethereum)
 - [useWeb3 - Learn web3 development](https://www.useweb3.xyz/)
+- [Storing Data on Ethereum Blockchain With Node.js](https://betterprogramming.pub/storing-data-on-ethereum-blockchain-with-node-js-643cb2961ebc
 
 #### Blogs & Article threads
 - [Rise of the World Computer](http://www.svds.com/ethereum-the-rise-of-the-world-computer/#.Vs3MJboMMl0.facebook)
