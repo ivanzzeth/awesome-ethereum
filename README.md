@@ -69,6 +69,7 @@ decided that it has value.
 - [Covalent: A unified API bringing visibility to billions of blockchain data points.](https://zmok.io/)
 - [thirdweb: Build Web3 apps easily, providing developers with easy-to-use tools and open-source SDKs to build, launch, and manage Web3 projects.](https://thirdweb.com/)
 - [Nexth - Next.js + Ethereum Starter kit](https://github.com/wslyvh/nexth)
+- [UseSIWE: The easiest way to add Sign-in with Ethereum to your app.](https://github.com/random-bits-studio/use-siwe)
 - [Ethairbaloons](https://github.com/petrosDemetrakopoulos/ethairballoons)
 - [DB3 Network:open-source decentralized firebase firestore alternative.](https://github.com/dbpunk-labs/db3)
 
