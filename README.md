@@ -72,6 +72,9 @@ decided that it has value.
 - [Solidity Bytes32 Converter Online](https://neptunemutual.com/web3-tools/string-to-bytes32-converter/)
 - [Online Solidity ABI Encoder](https://neptunemutual.com/web3-tools/solidity-abi-encoder-online/)
 - [Ethereum Unit Converter](https://neptunemutual.com/web3-tools/ethereum-unit-converter/)
+- [UseSIWE: The easiest way to add Sign-in with Ethereum to your app.](https://github.com/random-bits-studio/use-siwe)
+- [Ethairbaloons](https://github.com/petrosDemetrakopoulos/ethairballoons)
+- [DB3 Network:open-source decentralized firebase firestore alternative.](https://github.com/dbpunk-labs/db3)
 
 
 #### Where do I start?
@@ -83,6 +86,7 @@ decided that it has value.
 - [Programming Community Curated Resources for learning Solidity](https://hackr.io/tutorials/learn-solidity)
 - [Syllabus Ethereum](https://novicedock.com/learn/cryptocurrency/ethereum)
 - [useWeb3 - Learn web3 development](https://www.useweb3.xyz/)
+- [Storing Data on Ethereum Blockchain With Node.js](https://betterprogramming.pub/storing-data-on-ethereum-blockchain-with-node-js-643cb2961ebc
 
 #### Blogs & Article threads
 - [Rise of the World Computer](http://www.svds.com/ethereum-the-rise-of-the-world-computer/#.Vs3MJboMMl0.facebook)
