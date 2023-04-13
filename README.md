@@ -75,6 +75,7 @@ decided that it has value.
 - [UseSIWE: The easiest way to add Sign-in with Ethereum to your app.](https://github.com/random-bits-studio/use-siwe)
 - [Ethairbaloons](https://github.com/petrosDemetrakopoulos/ethairballoons)
 - [DB3 Network:open-source decentralized firebase firestore alternative.](https://github.com/dbpunk-labs/db3)
+- [walletOS: An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.](https://www.pinestreetlabs.com/walletos/)
 
 
 #### Where do I start?
