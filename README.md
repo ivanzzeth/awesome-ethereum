@@ -58,6 +58,7 @@ decided that it has value.
 - [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
 - [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
 - [DeBank: Browser Based DeFi Wallet and DeFi analytics](https://debank.com/)
+- [Cryptocurrency Alerting: Blockchain Monitoring & Alerts](https://cryptocurrencyalerting.com/blockchain-alerts.html)
 
 #### Developer Tools
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
