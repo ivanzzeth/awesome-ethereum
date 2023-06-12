@@ -58,6 +58,9 @@ decided that it has value.
 - [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
 - [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
 - [DeBank: Browser Based DeFi Wallet and DeFi analytics](https://debank.com/)
+- [Cryptocurrency Alerting: Blockchain Monitoring & Alerts](https://cryptocurrencyalerting.com/blockchain-alerts.html)
+- [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
+- [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
 
 #### Developer Tools
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
@@ -75,7 +78,9 @@ decided that it has value.
 - [UseSIWE: The easiest way to add Sign-in with Ethereum to your app.](https://github.com/random-bits-studio/use-siwe)
 - [Ethairbaloons](https://github.com/petrosDemetrakopoulos/ethairballoons)
 - [DB3 Network:open-source decentralized firebase firestore alternative.](https://github.com/dbpunk-labs/db3)
-- [walletOS: An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.](https://www.pinestreetlabs.com/walletos/)
+- [walletOS: An API for using blockchains](https://www.pinestreetlabs.com/walletos/)
+- [Dynamic: A powerful web3 auth developer platform.](https://www.dynamic.xyz)
+
 
 
 #### Where do I start?
