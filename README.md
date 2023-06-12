@@ -58,6 +58,8 @@ decided that it has value.
 - [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
 - [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
 - [DeBank: Browser Based DeFi Wallet and DeFi analytics](https://debank.com/)
+- [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
+- [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
 
 #### Developer Tools
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
