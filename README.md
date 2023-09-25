@@ -80,6 +80,7 @@ decided that it has value.
 - [DB3 Network:open-source decentralized firebase firestore alternative.](https://github.com/dbpunk-labs/db3)
 - [walletOS: An API for using blockchains](https://www.pinestreetlabs.com/walletos/)
 - [Dynamic: A powerful web3 auth developer platform.](https://www.dynamic.xyz)
+- [web3-ethereum-defi: Data research and trading library to work with DeFi for Python](https://web3-ethereum-defi.readthedocs.io/)
 
 
 
