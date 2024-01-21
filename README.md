@@ -96,7 +96,7 @@ decided that it has value.
 - [Programming Community Curated Resources for learning Solidity](https://hackr.io/tutorials/learn-solidity)
 - [Syllabus Ethereum](https://novicedock.com/learn/cryptocurrency/ethereum)
 - [useWeb3 - Learn web3 development](https://www.useweb3.xyz/)
-- [Storing Data on Ethereum Blockchain With Node.js](https://betterprogramming.pub/storing-data-on-ethereum-blockchain-with-node-js-643cb2961ebc
+- [Storing Data on Ethereum Blockchain With Node.js](https://betterprogramming.pub/storing-data-on-ethereum-blockchain-with-node-js-643cb2961ebc)
 
 #### Blogs & Article threads
 - [Rise of the World Computer](http://www.svds.com/ethereum-the-rise-of-the-world-computer/#.Vs3MJboMMl0.facebook)
