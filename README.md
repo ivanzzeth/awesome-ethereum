@@ -56,6 +56,7 @@ decided that it has value.
 #### Tools
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/)
 - [Etherscan: Blockchain Explorer](https://etherscan.io)
+- [Konkret Wallet: Browser Extension Wallet](https://codeberg.org/konkret/konkret-wallet)
 - [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
 - [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
 - [DeBank: Browser Based DeFi Wallet and DeFi analytics](https://debank.com/)
